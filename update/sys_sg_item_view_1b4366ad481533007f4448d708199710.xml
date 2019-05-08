@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Closed Todos List">c1e2ae6d481533007f4448d70819976e</data_item>
+        <dependency_fields/>
+        <item_view_json/>
+        <name>Closed Todos List detail item view</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-08 21:50:09</sys_created_on>
+        <sys_id>1b4366ad481533007f4448d708199710</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed Todos List detail item view</sys_name>
+        <sys_package display_value="K19 Todo Management" source="x_snc_k19tdm">0521aff113e4330026093d62f244b07b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Todo Management">0521aff113e4330026093d62f244b07b</sys_scope>
+        <sys_update_name>sys_sg_item_view_1b4366ad481533007f4448d708199710</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-08 21:50:09</sys_updated_on>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=1b4366ad481533007f4448d708199710"/>
+</record_update>
